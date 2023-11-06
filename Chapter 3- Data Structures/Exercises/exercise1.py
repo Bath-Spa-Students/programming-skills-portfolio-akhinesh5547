@@ -1,0 +1,9 @@
+list=['akku','alon','nisam','sathvik']
+msg=f"hello,{list[0].title()}!"
+print(msg)
+msg=f"hello,{list[1].title()}!"
+print(msg)
+msg=f"hello,{list[2].title()}!"
+print(msg)
+msg=f"hello,{list[3].title()}!"
+print(msg)
